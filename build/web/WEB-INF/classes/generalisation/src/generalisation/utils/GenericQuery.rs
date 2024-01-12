@@ -1,0 +1,1 @@
+generalisation.utils.GenericQuery
